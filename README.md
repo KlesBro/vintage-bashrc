@@ -1,3 +1,5 @@
+# Warning!
+This is only for linux!
 # How to install?
 1. Install cool-retro-term (sudo snap install cool-retro-term --classic)
 2. Download Zip
