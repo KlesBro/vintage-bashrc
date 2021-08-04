@@ -5,6 +5,5 @@ PS1=''
 
 alias PRINT='echo'
 alias LOAD='cat'
-alias clear='echo Syntax Error'
 alias STATUS='echo "00"'
 alias CLR='clear'
